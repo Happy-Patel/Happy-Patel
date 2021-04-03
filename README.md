@@ -38,7 +38,7 @@
 **Github Stats:**
 <summary>
   
-[![Dicka Github Stats](https://github-readme-stats.vercel.app/api?username=dicka88)](https://github.com/dicka88)
+[![Happy Github Stats](https://github-readme-stats.vercel.app/api?username=dicka88)](https://github.com/dicka88)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicka88&theme=buefy&layout=compact)
 
 
