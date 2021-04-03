@@ -44,5 +44,10 @@
 [![Happy Github Stats](https://github-readme-stats.vercel.app/api?username=Happy-Patel)](https://github.com/Happy-Patel)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happy-Patel&theme=buefy&layout=compact)
 
-
 </summary>
+
+<br />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/iemprashant/count.svg" />
+ </p>
