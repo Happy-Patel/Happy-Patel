@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋, I'm Happy Bhesdadiya</h1>
 
-- 🔭 I’m currently working on Nodejs + Expressjs + Embeddedjs + MongoDB
+- 🔭 I’m currently working on Nodejs + Expressjs + MongoDB + MySQL
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on Nodejs
 - 🤔 I’m looking for help with AWS
